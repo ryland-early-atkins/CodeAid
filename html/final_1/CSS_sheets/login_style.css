@@ -1,0 +1,28 @@
+p{
+	text-align: center;
+}
+h1{
+	color: black;
+	font-family: verdana;
+	font-size: 200%;
+	font-weight: bold;
+	text-align:center;
+}
+form{
+	text-align:center;
+}
+h2{
+	color: black;
+}
+a:link{
+	color: blue;
+	text-decoration: none;
+}
+a:hover{
+	color: hotpink;
+	text-decoration: underline;
+}
+a:active{
+	color: blue;
+	text-decoration:underline
+}

@@ -1,0 +1,22 @@
+h1{
+	text-align:center;
+}
+table{
+	border-collapse:collapse;
+	text-align:center;
+	width: 80%
+}
+td{
+	border: 1px solid black;
+}
+th{
+	border:2px solid black;
+}
+input[id=#progress]{
+	background-color:white;
+	border:none;
+}
+input[id=#progress]:hover{
+	background-color:gray;
+	border:none;
+}

@@ -1,0 +1,42 @@
+h1{
+	color: black;
+	font-family: verdana;
+	font-size: 200%;
+	font-weight: bold;
+	text-align:center;
+}
+h2{
+	color: black;
+	font-family: verdana;
+	font-weight: bold;
+	text-align:left;
+}
+#radio{
+	text-align:right;
+}
+#limit{
+	text-align:left;
+}
+a:link{
+	color: blue;
+	text-decoration: none;
+}
+a:hover{
+	color: hotpink;
+	text-decoration: underline;
+}
+a:active{
+	color: blue;
+	text-decoration:underline
+}
+table{
+	border-collapse:collapse;
+	text-align:center;
+	width: 90%
+}
+td{
+	border: 1px solid black;
+}
+th{
+	border:2px solid black;
+}
